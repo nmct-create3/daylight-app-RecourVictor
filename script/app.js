@@ -1,4 +1,4 @@
-const apiKey = "576ff4616f61454fcddad834cb99ef53";
+const apiKey = "KEY";
 
 // _ = helper functions
 function _parseMillisecondsIntoReadableTime(timestamp) {
